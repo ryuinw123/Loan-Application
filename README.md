@@ -1,4 +1,4 @@
-# Loan-Application  
+# Loan-Application ปี 1 เทอม 2  
 
 เป็น Application ที่ช่วยในการกู้ยืมเงิน ทำโดยใช้ Java + Microsoft SQL Server  
 
