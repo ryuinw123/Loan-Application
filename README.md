@@ -1,1 +1,5 @@
-# Loan-Application
+# Loan-Application  
+
+เป็น Application ที่ช่วยในการกู้ยืมเงิน ทำโดยใช้ Java + Microsoft SQL Server  
+
+Project video link https://drive.google.com/file/d/1kwYI7h0ohy2QqvlAKxs0i4qfa-ppUtmj/view
