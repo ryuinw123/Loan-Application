@@ -1,0 +1,20 @@
+.combo-box {
+-fx-background-color: transparent;
+-fx-border-color: #898989;
+-fx-border-radius: 4;
+-fx-border-width: 2px 2px 2px 2px;
+}
+
+.combo-box:hover {
+-fx-background-color: transparent;
+-fx-border-color: #58A8E8;
+-fx-border-radius: 4;
+-fx-border-width: 2px 2px 2px 2px;
+}
+
+.combo-box:focused {
+-fx-background-color: transparent;
+-fx-border-color: #1D85D7;
+-fx-border-radius: 4;
+-fx-border-width: 2px 2px 2px 2px;
+}

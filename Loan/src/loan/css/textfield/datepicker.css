@@ -1,0 +1,17 @@
+.date-picker {
+-fx-border-color: #898989;
+-fx-border-radius: 4;
+-fx-border-width: 2px 2px 2px 2px;
+}
+
+.date-picker:hover {
+-fx-border-color: #58A8E8;
+-fx-border-radius: 4;
+-fx-border-width: 2px 2px 2px 2px;
+}
+
+.date-picker:focused {
+-fx-border-color: #1D85D7;
+-fx-border-radius: 4;
+-fx-border-width: 2px 2px 2px 2px;
+}
